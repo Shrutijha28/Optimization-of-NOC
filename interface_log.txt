@@ -1,0 +1,5 @@
+Timestamp	TxnType	Data
+0	Rd Addr1	-
+2	Wr Addr2	'hxxxxxxxx
+4	Wr Addr3	'hyyyyyyyy
+10	Data Addr1	'hzzzzzzzz
